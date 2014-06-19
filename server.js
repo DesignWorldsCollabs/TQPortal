@@ -13,20 +13,22 @@ var express = require("express")
   , User = require("./apps/models/account")
   , LocalStrategy = require("passport-local").Strategy;
 
-var connect = function () {
-  mongoose.connect("mongodb://127.0.0.1:27017/portaldb");
-};
-connect();
+// Use named functions wherever possible.
+function mongo() {
+  mongoose.connect('mongodb://127.0.0.1:27017/portaldb');
+}
+mongo();
 
 //Error handler
-mongoose.connection.on("error", function (err) {
+mongoose.connection.on('error', function (err) {
   console.log(err);
 });
 
 // Reconnect when closed
-mongoose.connection.on("disconnected", function () {
-  connect();
+mongoose.connection.on('disconnected', function () {
+  mongo();
 });
+
 ////////////////////////////
 // Authentication support
 ////////////////////////////
