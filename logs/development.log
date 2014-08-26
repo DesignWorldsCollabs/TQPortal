@@ -2,3 +2,23 @@
 [2014-08-19 18:56:41.957] [DEBUG] TopicMap - CommonModel.fillConversationTable {"contextLocator":"66b9ef50-258f-11e4-96cb-ed9857efe40c","locator":"1d8d2da0-2761-11e4-ae9f-57c9daefb3ed","subject":"Test Wiki Conversation","smallImagePath":"/images/ibis/map_sm.png"}
 [2014-08-19 18:56:41.961] [DEBUG] TopicMap - CommonModel.fillConversationTable {"contextLocator":"66b9ef50-258f-11e4-96cb-ed9857efe40c","locator":"16d55530-27ae-11e4-b75f-057310846a0f","subject":"Another Wiki Conversation","smallImagePath":"/images/ibis/map_sm.png"}
 [2014-08-19 18:56:41.967] [DEBUG] TopicMap - CommonModel.fillConversationTable+ false {"data":[["<a href='/conversation/1d8d2da0-2761-11e4-ae9f-57c9daefb3ed?contextLocator=66b9ef50-258f-11e4-96cb-ed9857efe40c'><img src=\"/images/ibis/map_sm.png\"> Test Wiki Conversation</a>","",""],["<a href='/conversation/16d55530-27ae-11e4-b75f-057310846a0f?contextLocator=66b9ef50-258f-11e4-96cb-ed9857efe40c'><img src=\"/images/ibis/map_sm.png\"> Another Wiki Conversation</a>","",""]]}
+[2014-08-26 13:33:44.701] [INFO] TopicMap - Environment started
+[2014-08-26 13:33:44.707] [DEBUG] TopicMap - Environment.started
+[2014-08-26 13:33:44.716] [DEBUG] TopicMap - PortalEnvironment started [object Object]
+[2014-08-26 13:33:58.251] [DEBUG] TopicMap - RingBuffer.getReversedData-1 tag 0
+[2014-08-26 13:33:58.252] [DEBUG] TopicMap - RingBuffer.getReversedData-1 blog 0
+[2014-08-26 13:33:58.254] [DEBUG] TopicMap - RingBuffer.getReversedData-1 wiki 0
+[2014-08-26 13:33:58.255] [DEBUG] TopicMap - RingBuffer.getReversedData-1 conversation 0
+[2014-08-26 13:33:58.257] [DEBUG] TopicMap - RingBuffer.getReversedData-1 bookmark 0
+[2014-08-26 13:36:36.974] [INFO] TopicMap - Environment started
+[2014-08-26 13:36:36.977] [DEBUG] TopicMap - Environment.started
+[2014-08-26 13:36:36.983] [DEBUG] TopicMap - PortalEnvironment started [object Object]
+[2014-08-26 13:38:05.549] [INFO] TopicMap - Environment started
+[2014-08-26 13:38:05.551] [DEBUG] TopicMap - Environment.started
+[2014-08-26 13:38:05.557] [DEBUG] TopicMap - PortalEnvironment started [object Object]
+[2014-08-26 13:38:22.631] [INFO] TopicMap - Environment started
+[2014-08-26 13:38:22.633] [DEBUG] TopicMap - Environment.started
+[2014-08-26 13:38:22.639] [DEBUG] TopicMap - PortalEnvironment started [object Object]
+[2014-08-26 13:38:49.833] [INFO] TopicMap - Environment started
+[2014-08-26 13:38:49.835] [DEBUG] TopicMap - Environment.started
+[2014-08-26 13:38:49.841] [DEBUG] TopicMap - PortalEnvironment started [object Object]
